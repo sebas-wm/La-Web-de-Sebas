@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(245, 245, 245);
+    color: rgb(0, 0, 0);
+    font-family: "Noto Sans", sans-serif;
+    font-size: 20px
+}
+.tope {
+    margin-top: 5px;
+    font-size: 40;
+    margin-left: 5px;
+    color: #000000;
+    border: 2px solid #D3D3D3;
+    background-color: #FFF0F5;
+    width: 400px;
+    height: 50px;
+}
+#tabla1 {border-collapse: collapse;
+    font-family: "Noto Sans", sans-serif;
+    background:rgb(230, 230, 230);
+}
+#tabla2 {border-collapse: collapse;
+    font-family: "Noto Sans", sans-serif;
+    background:rgb(210, 210, 210);
+}
+.vinculo_color{
+    color: #0000FF;
+}
+.vinculo_color:hover{
+    color: #000080;
+}
+.vinculo_color:active{
+    color: #FF8C00;
+}
+.titulo {
+    font-family: "Noto Serif", serif;
+    font-size: 50px
+}
+.subtitulo {
+    font-family: "Noto Serif": serif;
+    font-size: 35px
+}
+.carmesi_chifon {
+    background-color: rgb(220, 20, 60);
+    color: rgb(255, 250, 205)
+}
